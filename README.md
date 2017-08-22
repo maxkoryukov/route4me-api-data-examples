@@ -1,3 +1,3 @@
-# Route4Me Examples
+# Route4Me Data Examples
 
-Examples of responses of the Route4Me API
+Examples of raw data used in requests/responses sent to/from Route4Me API
